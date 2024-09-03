@@ -1,2 +1,2 @@
 # Jonathan-Grant-Security-Experience
-CyberSecurity Portfolip
+CyberSecurity Portfolio
